@@ -63,7 +63,7 @@ with open ("image_text0.txt","r") as fh:
                 # print(st)
                 y+=weights.get(st,0)
         print(x,y)
-        if(y>-0.05 and x > -90):
+        if(y>-0.05 and x > -40):
             if(c>250):
                 count+=1
         else:
