@@ -1,0 +1,74 @@
+person: 1.6693760459000717
+bicycle: 1.0
+car: 1.3611111111111112
+motorcycle: 1.0555555555555556
+airplane: 1.1
+bus: 1.25
+train: 1.0
+truck: 1.05
+boat: 1.0
+traffic light: 1.0
+fire hydrant: 1.0
+stop sign: 1.0
+bench: 1.0
+bird: 1.2280701754385965
+cat: 1.1271186440677967
+dog: 1.1280788177339902
+horse: 1.2666666666666666
+sheep: 1.7011494252873562
+cow: 1.150943396226415
+elephant: 1.2666666666666666
+bear: 1.1428571428571428
+zebra: 2.0
+giraffe: 1.0
+umbrella: 1.125
+handbag: 1.0
+tie: 1.04
+suitcase: 1.0
+frisbee: 1.0
+sports ball: 1.1666666666666667
+kite: 1.1666666666666667
+baseball bat: 1.0
+baseball glove: 1.0
+skateboard: 1.0
+surfboard: 1.0
+tennis racket: 1.0
+bottle: 1.125
+wine glass: 1.0
+cup: 1.2
+fork: 1.0
+knife: 1.0
+spoon: 1.3333333333333333
+bowl: 1.2941176470588236
+banana: 1.0
+apple: 1.25
+sandwich: 1.2
+orange: 1.0
+broccoli: 1.0
+carrot: 1.3333333333333333
+hot dog: 1.5
+pizza: 1.4545454545454546
+donut: 1.5714285714285714
+cake: 2.3333333333333335
+chair: 1.0277777777777777
+couch: 1.0
+potted plant: 1.1
+bed: 1.0263157894736843
+dining table: 1.0
+toilet: 1.0
+tv: 1.1153846153846154
+laptop: 1.0
+mouse: 1.0
+remote: 1.0
+keyboard: 1.0
+cell phone: 1.0
+microwave: 1.0
+oven: 1.0714285714285714
+sink: 1.0
+refrigerator: 1.0
+book: 1.0
+clock: 1.125
+vase: 1.0
+scissors: 1.1428571428571428
+teddy bear: 1.0454545454545454
+toothbrush: 1.0
